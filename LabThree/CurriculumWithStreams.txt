@@ -1,0 +1,14 @@
+Math
+Olyxah
+2021.09.23
+17
+Simplex method.
+2021.11.03
+20
+Arrays and list.
+2021.09.28
+19
+Work with files.
+2021.09.04
+24
+First step in Java.

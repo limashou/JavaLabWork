@@ -1,0 +1,26 @@
+<CurriculumWithStreams>
+  <name>Math</name>
+  <lectureSurname>Olyxah</lectureSurname>
+  <lectures>
+    <Lecture>
+      <topic>Simplex method.</topic>
+      <students>17</students>
+      <data>2021.09.23</data>
+    </Lecture>
+    <Lecture>
+      <topic>Arrays and list.</topic>
+      <students>20</students>
+      <data>2021.11.03</data>
+    </Lecture>
+    <Lecture>
+      <topic>Work with files.</topic>
+      <students>19</students>
+      <data>2021.09.28</data>
+    </Lecture>
+    <Lecture>
+      <topic>First step in Java.</topic>
+      <students>10</students>
+      <data>2021.09.04</data>
+    </Lecture>
+  </lectures>
+</CurriculumWithStreams>

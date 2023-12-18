@@ -1,0 +1,20 @@
+{
+ "group_name": "KN-221a",
+ "students": [
+  {
+   "name": "Evgen",
+   "id": 1,
+   "age": 19
+  },
+  {
+   "name": "Ivan",
+   "id": 2,
+   "age": 21
+  },
+  {
+   "name": "Lesha",
+   "id": 3,
+   "age": 20
+  }
+ ]
+}

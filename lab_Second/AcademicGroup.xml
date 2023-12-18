@@ -1,0 +1,21 @@
+<academicGroup>
+  <id>1</id>
+  <group__name>KN-221a</group__name>
+  <students>
+    <taskFive.Student>
+      <id>1</id>
+      <name>Evgen</name>
+      <age>19</age>
+    </taskFive.Student>
+    <taskFive.Student>
+      <id>2</id>
+      <name>Ivan</name>
+      <age>21</age>
+    </taskFive.Student>
+    <taskFive.Student>
+      <id>3</id>
+      <name>Lesha</name>
+      <age>20</age>
+    </taskFive.Student>
+  </students>
+</academicGroup>
